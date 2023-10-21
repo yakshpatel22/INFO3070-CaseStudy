@@ -1,0 +1,6 @@
+C:\Users\YakshPatel\Desktop\BACKUP\$$Visual Studios Info3070\CaseStudy\CasestudyTests\obj\Debug\net5.0\CasestudyTests.csproj.AssemblyReference.cache
+C:\Users\YakshPatel\Desktop\BACKUP\$$Visual Studios Info3070\CaseStudy\CasestudyTests\obj\Debug\net5.0\CasestudyTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YakshPatel\Desktop\BACKUP\$$Visual Studios Info3070\CaseStudy\CasestudyTests\obj\Debug\net5.0\CasestudyTests.AssemblyInfoInputs.cache
+C:\Users\YakshPatel\Desktop\BACKUP\$$Visual Studios Info3070\CaseStudy\CasestudyTests\obj\Debug\net5.0\CasestudyTests.AssemblyInfo.cs
+C:\Users\YakshPatel\Desktop\BACKUP\$$Visual Studios Info3070\CaseStudy\CasestudyTests\obj\Debug\net5.0\CasestudyTests.csproj.CoreCompileInputs.cache
+C:\Users\YakshPatel\Desktop\BACKUP\$$Visual Studios Info3070\CaseStudy\CasestudyTests\bin\Debug\net5.0\CoverletSourceRootsMapping

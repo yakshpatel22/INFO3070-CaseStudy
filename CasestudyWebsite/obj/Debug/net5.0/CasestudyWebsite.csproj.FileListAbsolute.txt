@@ -1,0 +1,6 @@
+C:\Users\YakshPatel\Desktop\BACKUP\$$Visual Studios Info3070\CaseStudy\CasestudyWebsite\obj\Debug\net5.0\CasestudyWebsite.csproj.AssemblyReference.cache
+C:\Users\YakshPatel\Desktop\BACKUP\$$Visual Studios Info3070\CaseStudy\CasestudyWebsite\obj\Debug\net5.0\CasestudyWebsite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YakshPatel\Desktop\BACKUP\$$Visual Studios Info3070\CaseStudy\CasestudyWebsite\obj\Debug\net5.0\CasestudyWebsite.AssemblyInfoInputs.cache
+C:\Users\YakshPatel\Desktop\BACKUP\$$Visual Studios Info3070\CaseStudy\CasestudyWebsite\obj\Debug\net5.0\CasestudyWebsite.AssemblyInfo.cs
+C:\Users\YakshPatel\Desktop\BACKUP\$$Visual Studios Info3070\CaseStudy\CasestudyWebsite\obj\Debug\net5.0\CasestudyWebsite.csproj.CoreCompileInputs.cache
+C:\Users\YakshPatel\Desktop\BACKUP\$$Visual Studios Info3070\CaseStudy\CasestudyWebsite\obj\Debug\net5.0\CasestudyWebsite.MvcApplicationPartsAssemblyInfo.cache

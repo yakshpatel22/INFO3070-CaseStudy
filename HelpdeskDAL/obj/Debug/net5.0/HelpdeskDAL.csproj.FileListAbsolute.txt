@@ -1,0 +1,5 @@
+C:\Users\YakshPatel\Desktop\BACKUP\$$Visual Studios Info3070\CaseStudy\HelpdeskDAL\obj\Debug\net5.0\HelpdeskDAL.csproj.AssemblyReference.cache
+C:\Users\YakshPatel\Desktop\BACKUP\$$Visual Studios Info3070\CaseStudy\HelpdeskDAL\obj\Debug\net5.0\HelpdeskDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YakshPatel\Desktop\BACKUP\$$Visual Studios Info3070\CaseStudy\HelpdeskDAL\obj\Debug\net5.0\HelpdeskDAL.AssemblyInfoInputs.cache
+C:\Users\YakshPatel\Desktop\BACKUP\$$Visual Studios Info3070\CaseStudy\HelpdeskDAL\obj\Debug\net5.0\HelpdeskDAL.AssemblyInfo.cs
+C:\Users\YakshPatel\Desktop\BACKUP\$$Visual Studios Info3070\CaseStudy\HelpdeskDAL\obj\Debug\net5.0\HelpdeskDAL.csproj.CoreCompileInputs.cache
